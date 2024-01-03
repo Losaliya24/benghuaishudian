@@ -1,0 +1,16 @@
+F:\libshop\Bookshop\Bookshop\bin\Debug\Bookshop.exe.config
+F:\libshop\Bookshop\Bookshop\bin\Debug\Bookshop.exe
+F:\libshop\Bookshop\Bookshop\bin\Debug\Bookshop.pdb
+F:\libshop\Bookshop\Bookshop\obj\Debug\Bookshop.csproj.AssemblyReference.cache
+F:\libshop\Bookshop\Bookshop\obj\Debug\Bookshop.Books.resources
+F:\libshop\Bookshop\Bookshop\obj\Debug\Bookshop.Login.resources
+F:\libshop\Bookshop\Bookshop\obj\Debug\Bookshop.Properties.Resources.resources
+F:\libshop\Bookshop\Bookshop\obj\Debug\Bookshop.Slpash.resources
+F:\libshop\Bookshop\Bookshop\obj\Debug\Bookshop.csproj.GenerateResource.cache
+F:\libshop\Bookshop\Bookshop\obj\Debug\Bookshop.csproj.CoreCompileInputs.cache
+F:\libshop\Bookshop\Bookshop\obj\Debug\Bookshop.exe
+F:\libshop\Bookshop\Bookshop\obj\Debug\Bookshop.pdb
+F:\libshop\Bookshop\Bookshop\obj\Debug\Bookshop.DashBord.resources
+F:\libshop\Bookshop\Bookshop\obj\Debug\Bookshop.Users.resources
+F:\libshop\Bookshop\Bookshop\obj\Debug\Bookshop.Billing.resources
+F:\libshop\Bookshop\Bookshop\obj\Debug\Bookshop.AdminLogin.resources
